@@ -4,4 +4,4 @@ streamlit-extras
 openai
 tiktoken
 fitz
-frontend
+pymupdf
