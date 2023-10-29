@@ -5,3 +5,4 @@ openai
 tiktoken
 fitz
 PyMuPDF
+PyPDF2
