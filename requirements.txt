@@ -4,3 +4,4 @@ streamlit-extras
 openai
 tiktoken
 fitz
+frontend
