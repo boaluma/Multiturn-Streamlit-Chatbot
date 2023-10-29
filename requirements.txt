@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+streamlit-extras
+openai
+tiktoken
+fitz
