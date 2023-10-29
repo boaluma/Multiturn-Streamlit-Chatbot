@@ -12,7 +12,6 @@ import os
 # from langchain.vectorstores import FAISS
 # from langchain.llms import OpenAI 
 # from langchain.chains.question_answering import load_qa_chain
-
 # Set up your OpenAI API key
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
